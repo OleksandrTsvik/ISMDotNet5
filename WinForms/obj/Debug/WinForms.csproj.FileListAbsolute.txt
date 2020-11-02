@@ -1,0 +1,13 @@
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №05\ISMDotNet5\WinForms\bin\Debug\WinForms.exe.config
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №05\ISMDotNet5\WinForms\bin\Debug\WinForms.exe
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №05\ISMDotNet5\WinForms\bin\Debug\WinForms.pdb
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №05\ISMDotNet5\WinForms\bin\Debug\MatrixLibrary.dll
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №05\ISMDotNet5\WinForms\bin\Debug\MatrixLibrary.pdb
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №05\ISMDotNet5\WinForms\obj\Debug\WinForms.csprojAssemblyReference.cache
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №05\ISMDotNet5\WinForms\obj\Debug\WinForms.Matrix.resources
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №05\ISMDotNet5\WinForms\obj\Debug\WinForms.Properties.Resources.resources
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №05\ISMDotNet5\WinForms\obj\Debug\WinForms.csproj.GenerateResource.cache
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №05\ISMDotNet5\WinForms\obj\Debug\WinForms.csproj.CoreCompileInputs.cache
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №05\ISMDotNet5\WinForms\obj\Debug\WinForms.csproj.CopyComplete
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №05\ISMDotNet5\WinForms\obj\Debug\WinForms.exe
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №05\ISMDotNet5\WinForms\obj\Debug\WinForms.pdb

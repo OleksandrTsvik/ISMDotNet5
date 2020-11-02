@@ -1,0 +1,6 @@
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №05\ISMDotNet5\MatrixLibrary\bin\Debug\MatrixLibrary.dll
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №05\ISMDotNet5\MatrixLibrary\bin\Debug\MatrixLibrary.pdb
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №05\ISMDotNet5\MatrixLibrary\obj\Debug\MatrixLibrary.csprojAssemblyReference.cache
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №05\ISMDotNet5\MatrixLibrary\obj\Debug\MatrixLibrary.csproj.CoreCompileInputs.cache
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №05\ISMDotNet5\MatrixLibrary\obj\Debug\MatrixLibrary.dll
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №05\ISMDotNet5\MatrixLibrary\obj\Debug\MatrixLibrary.pdb
